@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-// 👆 This shebang tells Node to execute this script
-    // for colors (optional)
+
 import chalk from "chalk";
 // Your resume content
 const resume = `
